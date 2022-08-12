@@ -1,0 +1,38 @@
+.container {
+	background-color: black;
+	color: burnt almond;
+	height: 200px;
+	width: 200px;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.container2 {
+	background-color: black;
+	color: burnt almond;
+	height: 250px;
+	width: 700px;
+
+	align-items: center;
+	justify-content: center;
+}
+
+.container3 {
+	display: flex;
+}
+
+.cont {
+	background-color: black;
+	color: burnt almond;
+	height: 600px;
+	width: 500px;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+.button {
+	background-color: red;
+	color: black;
+}
